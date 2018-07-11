@@ -6,3 +6,9 @@ Learning python on A Cloud Guru sample project using NASA API to find meteorite 
 This project requires Python 3 and the request package.
 
 `python3 find-meteors.py`
+
+first install pipenvv. Then:
+```
+pipenv install
+pipenv run "python find-meteors.py"
+```
